@@ -11,5 +11,5 @@ when preparing papers review.
 
 ## Contribution
 
-1. Create `.md` file within `papers/` named as paper title replacing spaces with `-` (hiphen). Content of the file is not important.
+1. Create `.md` file within `papers/` named as paper title replacing spaces with `-` (hyphen). Content of the file is not important.
 2. If needed add presentation in PDF format into `pdf/`.
