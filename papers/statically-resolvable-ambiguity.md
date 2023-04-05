@@ -1,0 +1,1 @@
+Statically Resolvable Ambiguity
