@@ -2,5 +2,7 @@
 
 This repo contains materials for reading club sessions.
 
-Check [this guideline](https://github.com/mximp/papers-reading-club/blob/main/paper-review-guideline.md)
+Check [the guideline](paper-review-guideline.md)
 when preparing papers review.
+
+For review example check [this presentation](reading-club-review-stat-rslv-abgty.pdf)
