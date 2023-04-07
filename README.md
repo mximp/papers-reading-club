@@ -6,10 +6,10 @@ Check [the guideline](paper-review-guideline.md)
 when preparing papers review.
 
 `pdf/` contains review presentations. 
- 
-`papers/` contains the list of reviewed papers.
+
+The materials are exposed as web site at https://mximp.github.io/papers-reading-club/
 
 ## Contribution
 
-1. Create `.md` file within `papers/` named as paper title replacing spaces with `-` (hyphen). Content of the file is not important.
+1. Update `index.md` adding paper data into the table.
 2. If needed add presentation in PDF format into `pdf/`.
