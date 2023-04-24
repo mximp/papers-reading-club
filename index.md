@@ -2,7 +2,7 @@
 title: Papers List
 ---
 
-[Reading Schedule](/reading-schedule.md)
+\[[Reading Schedule](/reading-schedule.md)\] \[[Reading guideline](/paper-review-guideline.md)\]
 
 | Reading date |                        Presenter                        | Paper title                                                                                                                      |                     Conference                      | Publication year | Misc                                                           |
 |:------------:|:-------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------:|:----------------:|:---------------------------------------------------------------|
