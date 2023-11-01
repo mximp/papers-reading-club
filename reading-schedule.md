@@ -2,10 +2,10 @@
 title: Reading Club Schedule
 ---
 
-| Presenter | 05-Sep | 12-Sep | 19-Sep | 26-Sep | 03-Oct | 10-Oct | 17-Oct | 24-Oct | 31-Oct |
-|:----------|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
-| Maxim T.  |        |   S    |        |        |   R    |        |   S    |        |        |
-| Andrey    |        |        |   R    |        |   S    |        |        |   R    |        |
-| Lev       |   R    |        |   S    |        |        |   R    |        |   S    |        |
-| Roman     |   S    |        |        |   R    |        |   S    |        |        |   R    |
-| Vladimir  |        |   R    |        |   S    |        |        |   R    |        |   S    |
+| Presenter | 07-Nov | 14-Nov | 21-Nov | 28-Nov | 05-Dec | 12-Dec | 19-Dec | 26-Dec | 09-Jan |
+|:----------|:----:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
+| Maxim T.  |  R   |        |   S    |        |        |   R    |        |   S    |        |
+| Andrey    |  S   |        |        |   R    |        |   S    |        |        |   R    |
+| Lev       |      |   R    |        |   S    |        |        |   R    |        |   S    |
+| Roman     |      |   S    |        |        |   R    |        |   S    |        |        |
+| Vladimir  |      |        |   R    |        |   S    |        |        |   R    |        |
